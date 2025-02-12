@@ -17,7 +17,7 @@ Rather than just recreating gameplay, I used this project to strengthen my under
 - **Cinemachine**  
 - **DOTween Animation**  
 - **Odin Inspector**
-- - **MKToon Shader**  
+- **MKToon Shader**  
 - **BOXOPHOBIC**  
 - **EPIC TOON FX** 
 
